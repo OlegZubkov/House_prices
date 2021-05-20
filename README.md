@@ -1,5 +1,5 @@
-# House_prices
-Kaggle | House Prices
+# House_prices | Kaggle
+
 A tutorial project based on https://www.kaggle.com/c/house-prices-advanced-regression-techniques.
 The project included:
 1. Primary analysis and processing of tabular data;
