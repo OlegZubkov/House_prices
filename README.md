@@ -22,4 +22,4 @@ There were experiments with different types of regression (Linear, Lasso and Rid
 ## Score
 Best Kaggle score - 0.14925 (61th percentile)
 ## Next steps
-Scores achieved by all models were quite moderate. In order to increase score it's worth put more time and efforts on data exploration, to work more on preprocessing and to use log transformation to SalePrice and probably to stack different models.
+Scores achieved by all models were quite moderate. In order to increase score it's worth to put more time and efforts on data exploration, work more on preprocessing, use log transformation of SalePrice and probably stack different models.
